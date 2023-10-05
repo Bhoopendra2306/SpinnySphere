@@ -1,0 +1,599 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.35f1 (18e4db7a9996) revision 1631451'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 7597 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.35f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/mishr/Rolly Vortex
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51426
+Successfully changed project path to: C:/Users/mishr/Rolly Vortex
+C:/Users/mishr/Rolly Vortex
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.35f1 (18e4db7a9996)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mishr/Rolly Vortex/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f9d)
+    Vendor:   
+    VRAM:     3950 MB
+    Driver:   31.0.15.3168
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56964
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001627 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.564 seconds
+Domain Reload Profiling:
+	ReloadAssembly (564ms)
+		BeginReloadAssembly (63ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (428ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (157ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (151ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (32ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (77ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.939 seconds
+Domain Reload Profiling:
+	ReloadAssembly (940ms)
+		BeginReloadAssembly (144ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (741ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (253ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (291ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (180ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1547 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.9 MB.
+System memory in use after: 71.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1983.
+Total: 5.809000 ms (FindLiveObjects: 0.452700 ms CreateObjectMapping: 0.084600 ms MarkObjects: 5.051600 ms  DeleteObjects: 0.214200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Rolly Vortex Templete
+  artifactKey: Guid(811300acd2b4b77438c890e06c21c773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete using Guid(811300acd2b4b77438c890e06c21c773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f25caff551b5dbfc3f934883f5605a') in 0.021369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.324200 seconds.
+  path: Assets/Rolly Vortex Templete/Scene
+  artifactKey: Guid(a6be735cb54b02b41a9dc6c0d1fd19bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Scene using Guid(a6be735cb54b02b41a9dc6c0d1fd19bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02530c452af2ec282461a214f03f7386') in 0.012641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.588495 seconds.
+  path: Assets/Rolly Vortex Templete/Scene/main.unity
+  artifactKey: Guid(bdf0af061a500c24090b04346fdf7237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Scene/main.unity using Guid(bdf0af061a500c24090b04346fdf7237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296b273a7be41ca7e6cd53af9160d0cb') in 0.011704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 89.400087 seconds.
+  path: Assets/Rolly Vortex Templete/Audio/Collect Coin.wav
+  artifactKey: Guid(ef4fd0e9b3eb7674fb41fe56201239b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Audio/Collect Coin.wav using Guid(ef4fd0e9b3eb7674fb41fe56201239b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64da26278a7544153646b7346a426da') in 0.141875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Rolly Vortex Templete/Audio/Death1.wav
+  artifactKey: Guid(38e628ef23be12e439e7216b4bcd3802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Audio/Death1.wav using Guid(38e628ef23be12e439e7216b4bcd3802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62422a477f084eceea2f02c00362a7c2') in 0.020244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/Rolly Vortex Templete/Audio/Score.wav
+  artifactKey: Guid(ded486331f59be64f9ed3adbdf226c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Audio/Score.wav using Guid(ded486331f59be64f9ed3adbdf226c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd67ca3081a1d8139dc33d3ca6b2745') in 0.018605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.432435 seconds.
+  path: Assets/Rolly Vortex Templete/Font/SF Atarian System.ttf
+  artifactKey: Guid(cdb3bc8441a230445bd9e9df3f62e520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Font/SF Atarian System.ttf using Guid(cdb3bc8441a230445bd9e9df3f62e520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30988ca66842df96a6958b95b28e7341') in 0.057183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.689180 seconds.
+  path: Assets/Rolly Vortex Templete/light/LightingData.asset
+  artifactKey: Guid(55dcbc50e5eeeac4e842fb3d16b83d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/light/LightingData.asset using Guid(55dcbc50e5eeeac4e842fb3d16b83d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Lighting data asset ‘LightingData’ is incompatible with the current Unity version. Please use Generate Lighting to rebuild the lighting data. Realtime Global Illumination cannot be used until the lighting data is rebuilt.
+Lighting data asset ‘LightingData’ is incompatible with the current Unity version because the scene it was baked for was not serialized. Please use Generate Lighting to rebuild the lighting data, or assign the target scene to the Lighting Data Asset in the inspector.
+ -> (artifact id: 'ddad80c3f450daefeb8370bbdc677190') in 0.015882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Rolly Vortex Templete/light/ReflectionProbe-0.exr
+  artifactKey: Guid(d43e24530a43fc244b73905735200288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/light/ReflectionProbe-0.exr using Guid(d43e24530a43fc244b73905735200288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336370617c4e8c7fdce26cfb5ae4dd89') in 0.030567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.962537 seconds.
+  path: Assets/Rolly Vortex Templete/Materials/3dText.mat
+  artifactKey: Guid(daba3006f8196984cb6ada153971060c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Materials/3dText.mat using Guid(daba3006f8196984cb6ada153971060c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dceced51f32b34a8bfaaf2e765e8f5b4') in 0.023849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Rolly Vortex Templete/Materials/Death.mat
+  artifactKey: Guid(56a7c92a9bdf0234b82e7794ff24bc8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Materials/Death.mat using Guid(56a7c92a9bdf0234b82e7794ff24bc8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ae616ac5b85a748b2a66a9625e5be28') in 0.069033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Rolly Vortex Templete/Materials/RunMaterial.mat
+  artifactKey: Guid(18cbd598a3b766d4297792cb1df0c85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Materials/RunMaterial.mat using Guid(18cbd598a3b766d4297792cb1df0c85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bb1154573a31af00e9af1b794a6264') in 0.022041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Rolly Vortex Templete/Materials/Ball2.mat
+  artifactKey: Guid(3ea931586e3f2f5428b63f4c46c2df3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Materials/Ball2.mat using Guid(3ea931586e3f2f5428b63f4c46c2df3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd32bc3a6d7141d4cd2558577a703fa') in 0.095452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Rolly Vortex Templete/Materials/Tube.mat
+  artifactKey: Guid(8613e7d993ae22f4fa168a1327c039cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Materials/Tube.mat using Guid(8613e7d993ae22f4fa168a1327c039cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9aae25daaf051f4301b5d2d3125862') in 0.020401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Rolly Vortex Templete/Materials/Ball3.mat
+  artifactKey: Guid(6985d6839dcd8f947a66da5cb7191034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Materials/Ball3.mat using Guid(6985d6839dcd8f947a66da5cb7191034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd389039fd8bc422366476dd822f9ea73') in 0.027269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Rolly Vortex Templete/Materials/Ball1.mat
+  artifactKey: Guid(d954e53f27bb2e0419368eddccd61857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Materials/Ball1.mat using Guid(d954e53f27bb2e0419368eddccd61857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ca8afc625adf2a63675108e0f220c6') in 0.023245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Rolly Vortex Templete/Materials/ball.physicMaterial
+  artifactKey: Guid(5113480701de0e2469e7a54d0c1f99bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Materials/ball.physicMaterial using Guid(5113480701de0e2469e7a54d0c1f99bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104de73d6bc95b4f2fd59b33475c06a7') in 0.012554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.229324 seconds.
+  path: Assets/Rolly Vortex Templete/Model/Cube1.obj
+  artifactKey: Guid(47968eacc71021f40b76fb890cc318d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Model/Cube1.obj using Guid(47968eacc71021f40b76fb890cc318d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f19c529a91f5c74c623b116b8867f725') in 0.060216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Rolly Vortex Templete/Model/Tube001.obj
+  artifactKey: Guid(a5ce69f8f06097b418dd8cb55252d757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Model/Tube001.obj using Guid(a5ce69f8f06097b418dd8cb55252d757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa5e8f2e1efa918ffe34fd10c806fc0') in 0.033584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Rolly Vortex Templete/Model/Cube2.obj
+  artifactKey: Guid(0d1c9540d529132499d2b1731d141fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Model/Cube2.obj using Guid(0d1c9540d529132499d2b1731d141fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63a1b0358f4b8473c18f54f57203ed33') in 0.034496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.373506 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/BallFx
+  artifactKey: Guid(a5da859ab445a6844a5bc1d34aa5ef93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/BallFx using Guid(a5da859ab445a6844a5bc1d34aa5ef93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce82c4294dfae66eb226d0e58617e64') in 0.009415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.067258 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/BallFx/BallFx.prefab
+  artifactKey: Guid(852da2401fa15b6498248e4417da9725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/BallFx/BallFx.prefab using Guid(852da2401fa15b6498248e4417da9725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17f55719416454d9c4cfd7d2c4edf9a') in 0.017465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/BallFx/Particle System.prefab
+  artifactKey: Guid(fe3a9ec01e6f78a42a74f52ca7dbc50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/BallFx/Particle System.prefab using Guid(fe3a9ec01e6f78a42a74f52ca7dbc50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '840fb756dcc6d20c02e5c889c50a2e7c') in 0.017158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.420494 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/BallSkin/0.prefab
+  artifactKey: Guid(34d48cdc1f06a7e4497390f084ac6708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/BallSkin/0.prefab using Guid(34d48cdc1f06a7e4497390f084ac6708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a747cbbd8f623e44c05c7a0a19acaefa') in 0.022855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/BallSkin/2.prefab
+  artifactKey: Guid(484675199ea60924d9eb125ba8d9b70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/BallSkin/2.prefab using Guid(484675199ea60924d9eb125ba8d9b70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac165bd699be01a79cad854a70baf3bc') in 0.029181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/BallSkin/1.prefab
+  artifactKey: Guid(e7910864f81020742b52b1d0de3771f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/BallSkin/1.prefab using Guid(e7910864f81020742b52b1d0de3771f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3775d82742bd3149052bed08b4cf4b') in 0.027126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.413159 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Coin/Coin.prefab
+  artifactKey: Guid(0ca0415388f998642985ec1421d4fb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Coin/Coin.prefab using Guid(0ca0415388f998642985ec1421d4fb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3790becf7f90e2673e7873c80d260cca') in 0.017108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.915426 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Tube/Tube.prefab
+  artifactKey: Guid(9e22f451c8ae98448bffd3c511c7dad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Tube/Tube.prefab using Guid(9e22f451c8ae98448bffd3c511c7dad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '808ac47e49f5426e5178c62d67e7c66b') in 0.014030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.526820 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/TubeTexture/0.png
+  artifactKey: Guid(c50df3ccaa38ead4cbd9f65551c36d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/TubeTexture/0.png using Guid(c50df3ccaa38ead4cbd9f65551c36d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a3de2ec6c71f0c77dd3e8dcf771b624') in 0.035156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/TubeTexture/1.png
+  artifactKey: Guid(0df9f44ad87f29e498fc4a1f1977f275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/TubeTexture/1.png using Guid(0df9f44ad87f29e498fc4a1f1977f275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d2ea060a2040620e35c3a790447851') in 0.020156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/TubeTexture/4.png
+  artifactKey: Guid(2c356c6b8b7c7834580cd05103a5e9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/TubeTexture/4.png using Guid(2c356c6b8b7c7834580cd05103a5e9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a916f0134ff66f34250d4b3bbd547857') in 0.020126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/TubeTexture/3.png
+  artifactKey: Guid(da6ccc2c10bbfc843a6223a474e0b600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/TubeTexture/3.png using Guid(da6ccc2c10bbfc843a6223a474e0b600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da813c37f11b47e1a682aad289e7620') in 0.022881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/TubeTexture/2.png
+  artifactKey: Guid(15bb6c736146d2841970810b025b59c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/TubeTexture/2.png using Guid(15bb6c736146d2841970810b025b59c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495c00080b58aa406fda72fed6665092') in 0.022777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/TubeTexture/5.png
+  artifactKey: Guid(5c8868e5d19ea2241835567a1e0e8e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/TubeTexture/5.png using Guid(5c8868e5d19ea2241835567a1e0e8e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '576b8256b0e1221c6e813a5ab9211580') in 0.025170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.558997 seconds.
+  path: Assets/Rolly Vortex Templete/Script/UI
+  artifactKey: Guid(d5d0c278f88356f4e8392009af19ea82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Script/UI using Guid(d5d0c278f88356f4e8392009af19ea82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1677cb0de7fee6f1e0beedab22b20dec') in 0.011017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.897291 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/button.png
+  artifactKey: Guid(02c0338e678ae154885e69d930ba925c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/button.png using Guid(02c0338e678ae154885e69d930ba925c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '906f96416c63115e8cc3adfc00880131') in 0.021208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/coin.png
+  artifactKey: Guid(c9481b549a408694abf27e8981aef424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/coin.png using Guid(c9481b549a408694abf27e8981aef424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4fa964de1f4c3f3d7f7d69704aaa556') in 0.021546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/Finger.png
+  artifactKey: Guid(26190f93e07e1314aa02f0f259a0bb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/Finger.png using Guid(26190f93e07e1314aa02f0f259a0bb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5d2c7bc217915829273094392f5d63') in 0.026427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/Restart.png
+  artifactKey: Guid(d2236eaba2c0f9f4e9ebf8930b2a546f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/Restart.png using Guid(d2236eaba2c0f9f4e9ebf8930b2a546f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdfa7e1515384ef2df9da51c5c3df8a3') in 0.023427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/check.png
+  artifactKey: Guid(ce5acec8182340a4d88b129ba8a4870a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/check.png using Guid(ce5acec8182340a4d88b129ba8a4870a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b863f328a5e0e4d669c3a001036a0c9f') in 0.019728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/id_blueball.png
+  artifactKey: Guid(7b14244b58108ad4e82f5d382f83146f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/id_blueball.png using Guid(7b14244b58108ad4e82f5d382f83146f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d001cd5529377242b5a1f987ecb463') in 0.026163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/Mask.png
+  artifactKey: Guid(8894241629de2234798a38f9e662ee6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/Mask.png using Guid(8894241629de2234798a38f9e662ee6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '909a97b0799c7b39f76af0d0e25942c3') in 0.023620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/id_defalut_ball.png
+  artifactKey: Guid(2a7b42a2783ea5c478256607ce79ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/id_defalut_ball.png using Guid(2a7b42a2783ea5c478256607ce79ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96aa2eeac17ecc7f30b80f3f2d3d92b6') in 0.023851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/id_redball.png
+  artifactKey: Guid(4fbd98d7ea41498478344e356e55aa67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/id_redball.png using Guid(4fbd98d7ea41498478344e356e55aa67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56fa5a4a95fa9112e10f6828b953011') in 0.027504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/Title.png
+  artifactKey: Guid(f0ffa5fe41580e04b83eb7888c98cb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/Title.png using Guid(f0ffa5fe41580e04b83eb7888c98cb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4f7965971b4aa408d1d3ba4bfec936') in 0.027191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/Circle Thin Outline.png
+  artifactKey: Guid(7c59ff7602af71a42bca3a59d9c6ba49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/Circle Thin Outline.png using Guid(7c59ff7602af71a42bca3a59d9c6ba49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6154e8566b81fdc247843f608f260e5c') in 0.025263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/Icon.png
+  artifactKey: Guid(c4c630e7489692f41ae13e3cc626583c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/Icon.png using Guid(c4c630e7489692f41ae13e3cc626583c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3980d13b4fa112169f06296307bc10') in 0.017150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.212205 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/skin
+  artifactKey: Guid(1ba3934bda67fa749b9e73ec480037ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/skin using Guid(1ba3934bda67fa749b9e73ec480037ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bc6bc5656a8f5737dbb9ae6f645f0a') in 0.010258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.059513 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/skin/0.png
+  artifactKey: Guid(8b19449376bbd7040bbdeaf7610569b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/skin/0.png using Guid(8b19449376bbd7040bbdeaf7610569b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f442d0de4bd647af69fbd39d936eba13') in 0.020384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/skin/2.png
+  artifactKey: Guid(d741980e2f560c549add825024d38c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/skin/2.png using Guid(d741980e2f560c549add825024d38c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f9cf1c7194d77b9a3de8db39cad719') in 0.025617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Rolly Vortex Templete/Texture/skin/1.png
+  artifactKey: Guid(8cd6142851a27114e8b00133d04f87bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Texture/skin/1.png using Guid(8cd6142851a27114e8b00133d04f87bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5651db5216da6168512b556b485e59b3') in 0.022985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.009624 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Coin
+  artifactKey: Guid(c7998a75434c0ba47a7b041a2b86e7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Coin using Guid(c7998a75434c0ba47a7b041a2b86e7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5c8810264e746a690212b44a72edfb') in 0.002707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.510460 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Cube/Cube1.prefab
+  artifactKey: Guid(99fd5c56072ee7344aaec279a69b1200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Cube/Cube1.prefab using Guid(99fd5c56072ee7344aaec279a69b1200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd842b6756481f89fff8a03e98c4bdef9') in 0.015152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Cube/Cube2.prefab
+  artifactKey: Guid(491e366ad8ded884a9a3fe5132bb2b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Cube/Cube2.prefab using Guid(491e366ad8ded884a9a3fe5132bb2b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ca3d07af1a0d50d45b703047e18439') in 0.017571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.367442 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Rules/Rule1.prefab
+  artifactKey: Guid(fffdf84477bf90a4fa312c5d478fef8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Rules/Rule1.prefab using Guid(fffdf84477bf90a4fa312c5d478fef8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae251da4d163fe35d6c9cd1a7c4b3402') in 0.011500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Rules/Rule3.prefab
+  artifactKey: Guid(611e587dbd51bfe42b79e1c19b0ec56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Rules/Rule3.prefab using Guid(611e587dbd51bfe42b79e1c19b0ec56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4b27f3fae768496f6518907f9d4de7') in 0.012952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Rules/Rule5.prefab
+  artifactKey: Guid(06f15e2761e300b459de0b5b049acb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Rules/Rule5.prefab using Guid(06f15e2761e300b459de0b5b049acb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1502228e096521cdad8c808fcdfef9d6') in 0.012950 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Rules/Rule4.prefab
+  artifactKey: Guid(8274194e970fd474d8eb75d42d6d5ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Rules/Rule4.prefab using Guid(8274194e970fd474d8eb75d42d6d5ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195d7c8f286dc401ce46d8b40345c83a') in 0.014120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Rules/Rule6.prefab
+  artifactKey: Guid(099fa278368f2e94980928e8a874d4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Rules/Rule6.prefab using Guid(099fa278368f2e94980928e8a874d4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c50056f8d93bfaf2b854279eb1d7f94') in 0.012965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Rules/Rule8.prefab
+  artifactKey: Guid(4733395ad30af7244b1bee97881803c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Rules/Rule8.prefab using Guid(4733395ad30af7244b1bee97881803c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df8ad36942124f091c0943eafab8082') in 0.015003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Rules/Rule2.prefab
+  artifactKey: Guid(303d731728f3f31439d36e90ea95cf7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Rules/Rule2.prefab using Guid(303d731728f3f31439d36e90ea95cf7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1b70d3027d9ebd4ef569c216556629') in 0.014480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/Rules/Rule7.prefab
+  artifactKey: Guid(f7061dd28abead143be08b28bea981f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/Rules/Rule7.prefab using Guid(f7061dd28abead143be08b28bea981f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5cefffcb1c7f28a9392acc405e6f036') in 0.012239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.230143 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/ScoreText/ScoreText.prefab
+  artifactKey: Guid(a48e6498d0a93594bab2d46d4b1b6963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/ScoreText/ScoreText.prefab using Guid(a48e6498d0a93594bab2d46d4b1b6963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1782a4e64f63847bc74e9313a709be94') in 0.010387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.822267 seconds.
+  path: Assets/Rolly Vortex Templete/Model/Materials
+  artifactKey: Guid(d686401203435e14b885b1f04a6d03fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Model/Materials using Guid(d686401203435e14b885b1f04a6d03fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179089838256964b480799b31aabe128') in 0.009064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030025 seconds.
+  path: Assets/Rolly Vortex Templete/Model/Materials/Cube.017_0Mat.mat
+  artifactKey: Guid(0cbeaed33f1a15c4387d823c8daf2120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Model/Materials/Cube.017_0Mat.mat using Guid(0cbeaed33f1a15c4387d823c8daf2120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b153208dd70f3c8000ff9b61b37fe5') in 0.015972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Rolly Vortex Templete/Model/Materials/Cube.019_0Mat.mat
+  artifactKey: Guid(734020306ff55ea469bb6e21600659ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Model/Materials/Cube.019_0Mat.mat using Guid(734020306ff55ea469bb6e21600659ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a7feb18ec68d568a51cc5b42a46c5bf') in 0.018799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000613 seconds.
+  path: Assets/Rolly Vortex Templete/Model/Materials/Tube001_0Mat.mat
+  artifactKey: Guid(9ab95bddd928fce48b0c08f625258e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Model/Materials/Tube001_0Mat.mat using Guid(9ab95bddd928fce48b0c08f625258e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112fc27223851502a1b71a9a72e71519') in 0.022011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.269303 seconds.
+  path: Assets/Rolly Vortex Templete/Resources/BallSkin
+  artifactKey: Guid(69444cdec3de2e44e93ebc2eed4f0c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rolly Vortex Templete/Resources/BallSkin using Guid(69444cdec3de2e44e93ebc2eed4f0c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f57457e7024bd0f474c30555d35239a') in 0.009476 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003008 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.023 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1024ms)
+		BeginReloadAssembly (140ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (820ms)
+			LoadAssemblies (104ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (332ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (272ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (169ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1539 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.7 MB.
+System memory in use after: 74.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2055.
+Total: 5.055800 ms (FindLiveObjects: 0.377500 ms CreateObjectMapping: 0.093400 ms MarkObjects: 4.546100 ms  DeleteObjects: 0.036700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
